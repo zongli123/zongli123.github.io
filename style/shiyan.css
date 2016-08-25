@@ -1,0 +1,10 @@
+p,h1,li{
+    color:red;
+    width:500px;
+    border:1px solid black;
+}
+.h1{
+    color:pink;
+    background-color:blue;
+    width:400px;
+}
